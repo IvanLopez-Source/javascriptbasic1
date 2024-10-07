@@ -109,14 +109,17 @@ console.log(division)
 
 //Escribe tu código aquí
 
-
-
+let var1 = 1
+let var2 = 2
+let comparador1 = var1 == var2 
+console.log(comparador1)
 
 // Ejercicio 10: Crea otra variable que compare las dos primeras variables creadas en el ejercicio anterior, para que el resultado impreso en la consola sea true.
 
 //Escribe tu código aquí
 
-
+let comparador2 = var1 < var2 
+console.log(comparador2)
 
 
 //Ejercicio 11: completa el ejercicio
@@ -124,7 +127,7 @@ console.log(division)
 let num1 = 15
 let num2 = 20
 
-let comparision = //Realiza la operación de comparación que consideres para que el resultado en consola sea true
+let comparision = num1 < num2 //Realiza la operación de comparación que consideres para que el resultado en consola sea true
 console.log(comparision)
 
 //Ejercicio 12: completa el ejercicio

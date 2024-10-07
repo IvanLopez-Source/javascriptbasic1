@@ -74,14 +74,18 @@ console.log(typeof(coder.edad))
 
 //Escribe tu código aquí
 
-
+let number1 = 10
+let number2 = 10
+let suma = number1 + number2
+console.log(suma)
 
 
 //Ejercicio 7: Crea una varible que reste 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
+let resta = number1 - number2
+console.log(resta)
 
 
 //Ejercicio 8: Crea una varible que multiplique 2 números e imprime el resultado en consola.

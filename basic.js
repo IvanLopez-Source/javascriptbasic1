@@ -92,14 +92,16 @@ console.log(resta)
 
 //Escribe tu código aquí
 
-
+let multiplicacion = number1 * number2
+console.log(multiplicacion)
 
 
 //Ejercicio 9: Crea una varible que divida 2 números e imprime el resultado en consola.
 
 //Escribe tu código aquí
 
-
+let division = number1 / number2
+console.log(division)
 
 
 //OPERADORES DE COMPARACIÓN

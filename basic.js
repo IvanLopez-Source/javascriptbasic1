@@ -56,7 +56,7 @@ console.log(postres)
 //Escribe tu código aquí
 const coder = {
     nombre: "ivan",
-    edad:"23,"
+    edad:"23",
 }
 console.log(coder)
 
@@ -65,7 +65,7 @@ console.log(coder)
 
 //Escribe tu código aquí
 
-console.log()
+console.log(typeof(coder.edad))
 
 
 

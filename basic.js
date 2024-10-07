@@ -150,9 +150,10 @@ console.log(result2)
 
 //Escribe tu código aquí
 
-
-
-
+let miNombre = "ivan";
+let miApellido = "lopez";
+let nombrecompleto = miNombre + " " + miApellido
+console.log(nombrecompleto)
 
 //OPERADORES DE LÓGICA
 //Ejercicio 15: Descomenta todo el bloque desde la variable 'a' hasta el 'console.log(res6)' y completa el ejercicio. (Saldrá un error y no podrás visualizar el resultado hasta que termines este ejercicio)
